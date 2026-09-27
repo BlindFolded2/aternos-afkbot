@@ -1,7 +1,7 @@
 {
-	"host": "ManucrackYTprro.aternos.me",
+	"host": "BlindFolded222.aternos.me",
 	"port": "28153",
-	"username": "Mr Origami",
+	"username": "Wemmbu",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
 		"false : displays only necessary logs."
